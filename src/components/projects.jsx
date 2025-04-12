@@ -4,19 +4,19 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const projects = [
   {
     title: 'Agents Showcase',
-    image: './src/assets/agent.png',
+    image: '/images/agent.png',
     github: 'https://github.com/moamel-hashim/agent-show-case',
     liveDemo: 'https://moamel-hashim.github.io/agent-show-case/'
   },
   {
     title: 'Dad Jokes',
-    image: './src/assets/dadjokes.png',
+    image: '/images/dadjokes.png',
     github: 'https://github.com/moamel-hashim/jquery-dad-jokes',
     liveDemo: 'https://moamel-hashim.github.io/jquery-dad-jokes/'
   },
   {
     title: 'Code Journal',
-    image: './src/assets/codejournal.png',
+    image: '/images/codejournal.png',
     github: 'https://github.com/moamel-hashim/code-journal',
     liveDemo: 'https://moamel-hashim.github.io/code-journal/'
   }
